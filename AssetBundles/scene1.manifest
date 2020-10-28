@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2098182414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8796a52ae5efe259f0f09fcf903ceed4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de7ee3f36963a43a43aff203e6def15b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -904087364, guid: 65ab55f360e1be54e830e645494b4ef6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Scene1/Scene.prefab
+- Assets/Texture/Materials/Grass.mat
+- Assets/Texture/Materials/Blue.mat
+- Assets/Scripts/AssemlyBytes/Scene1/Move.bytes
+- Assets/Prefabs/Scene1/Player.prefab
+Dependencies: []
